@@ -8,7 +8,7 @@ Welcome to our GitHub repository! We are Brian Doctor Matovu and Mercy Miracle L
 Brian is a dedicated and enthusiastic developer with a keen interest in data science.
 
 ### Mercy Miracle Lwantale
-Mercy is a creative and innovative tech enthusiast, focusing on data analytics
+Miracle is a creative and innovative tech enthusiast, focusing on data analytics
 
 Together, we combine our diverse skills to create innovative solutions and contribute to exciting projects in the ICT field.
 
