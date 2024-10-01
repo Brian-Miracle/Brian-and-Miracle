@@ -8,6 +8,7 @@ Brian is a dedicated and enthusiastic developer with a keen interest in data sci
 Mercy Miracle Lwantale.
 
 Mercy is a creative and innovative tech enthusiast, focusing on data analytics 
+
 Together, we combine our diverse skills to create innovative solutions and contribute to exciting projects in the ICT field.
 Our Projects
 Simple Calculator
