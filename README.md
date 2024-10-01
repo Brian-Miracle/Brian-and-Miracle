@@ -13,8 +13,6 @@ Together, we combine our diverse skills to create innovative solutions and contr
 Our Projects
 Simple Calculator
 Check out our simple calculator built with HTML. It's a great example of our front-end development skills and our ability to create user-friendly interfaces.
-[Add any other projects you've worked on or plan to work on]
-
 
 
 
