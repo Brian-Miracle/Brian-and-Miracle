@@ -6,6 +6,7 @@ Brian Doctor Matovu.
 Brian is a dedicated and enthusiastic developer with a keen interest in data science.
 
 Mercy Miracle Lwantale.
+https://x.com/m_miracle2719?s=11 
 
 Mercy is a creative and innovative tech enthusiast, focusing on data analytics 
 
